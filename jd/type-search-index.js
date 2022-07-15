@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Card"},{"p":"<Unnamed>","l":"Casino"},{"p":"<Unnamed>","l":"Deck"},{"p":"<Unnamed>","l":"GuessTheNumber"},{"p":"<Unnamed>","l":"HighLow"},{"p":"<Unnamed>","l":"Luck"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Player"},{"p":"<Unnamed>","l":"RockPaperScissors"}];updateSearchResults();
